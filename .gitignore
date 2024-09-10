@@ -32,5 +32,6 @@
 *.app
 
 ./build
+./tests/build
 .vscode
 .out
