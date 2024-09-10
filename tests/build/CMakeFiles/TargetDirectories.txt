@@ -1,0 +1,3 @@
+/home/sushantanand/project/simplify/simplify/tests/build/CMakeFiles/test.dir
+/home/sushantanand/project/simplify/simplify/tests/build/CMakeFiles/edit_cache.dir
+/home/sushantanand/project/simplify/simplify/tests/build/CMakeFiles/rebuild_cache.dir
