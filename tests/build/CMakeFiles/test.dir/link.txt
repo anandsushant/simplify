@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/home/sushantanand/project/simplify/simplify/src/BinarySearchTree.cpp.o CMakeFiles/test.dir/home/sushantanand/project/simplify/simplify/src/BinaryTree.cpp.o CMakeFiles/test.dir/home/sushantanand/project/simplify/simplify/src/simplify.cpp.o CMakeFiles/test.dir/src/test_binary_tree.cpp.o -o test 
